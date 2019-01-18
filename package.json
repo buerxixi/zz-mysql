@@ -1,0 +1,28 @@
+{
+  "name": "zz-mysql",
+  "version": "0.0.2",
+  "description": "async/await->mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buerxixi/zz-mysql.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "promise",
+    "mysql"
+  ],
+  "author": "liujiaqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buerxixi/zz-mysql/issues"
+  },
+  "homepage": "https://github.com/buerxixi/zz-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
