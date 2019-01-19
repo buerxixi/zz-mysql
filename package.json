@@ -1,6 +1,6 @@
 {
   "name": "zz-mysql",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "async/await->mysql",
   "main": "index.js",
   "scripts": {

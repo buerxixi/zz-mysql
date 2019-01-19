@@ -15,6 +15,4 @@ Connection.prototype.asyncQuery = function (sql, values) {
     })
 };
 
-module.exports = {
-    mysql
-};
+module.exports = mysql
